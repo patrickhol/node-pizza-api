@@ -1,0 +1,10 @@
+{
+    "email": "kowalskikowalski@gmail.com",
+    "id": "7z3i23ybzdf79wkwq09o",
+    "amount": 78,
+    "currency": "usd",
+    "description": "\nName: Pepperoni\nSize: small\n Quantity: 2\nSum: 50 usd\nName: Diabolo\nSize: small\n Quantity: 1\nSum: 28 usd",
+    "source": "tok_visa",
+    "paymentStatus": false
+
+}

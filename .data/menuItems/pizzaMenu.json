@@ -1,0 +1,64 @@
+{
+    "pizzaMenu": [{
+            "pizzaId": 1,
+            "name": "Margarita",
+            "size": "small",
+            "price": 22
+
+        },
+        {
+            "pizzaId": 2,
+            "name": "Margarita",
+            "size": "big",
+            "price": 30
+        },
+        {
+            "pizzaId": 3,
+            "name": "Salami",
+            "size": "small",
+            "price": 24
+        },
+        {
+            "pizzaId": 4,
+            "name": "Salami",
+            "size": "big",
+            "price": 36
+        },
+        {
+            "pizzaId": 5,
+            "name": "Pepperoni",
+            "size": "small",
+            "price": 25
+        },
+        {
+            "pizzaId": 6,
+            "name": "Pepperoni",
+            "size": "big",
+            "price": 40
+        },
+        {
+            "pizzaId": 7,
+            "name": "Diabolo",
+            "size": "small",
+            "price": 28
+        },
+        {
+            "pizzaId": 8,
+            "name": "Diabolo",
+            "size": "big",
+            "price": 42
+        },
+        {
+            "pizzaId": 9,
+            "name": "Angel",
+            "size": "small",
+            "price": 26
+        },
+        {
+            "pizzaId": 10,
+            "name": "Angel",
+            "size": "big",
+            "price": 37
+        }
+    ]
+}

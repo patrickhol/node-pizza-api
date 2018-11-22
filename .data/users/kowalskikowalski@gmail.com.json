@@ -1,0 +1,20 @@
+{
+    "name": "Kowalski Kowalski",
+    "email": "kowalskikowalski@gmail.com",
+    "street": "Kozuchowska 30",
+    "shoppingCart": [{
+        "menuId": 5,
+        "quantity": 2,
+        "name": "Pepperoni",
+        "size": "small",
+        "sum": 50
+    }, {
+        " menuId": 7,
+        "quantity": 1,
+        "name": "Diabolo",
+        "size": "small",
+        "sum": 28
+    }],
+    "orders": ["7z3i23ybzdf79wkwq09o"]
+
+}
